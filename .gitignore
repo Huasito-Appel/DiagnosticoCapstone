@@ -1,0 +1,19 @@
+./Ds_store
+
+__pycache__/
+
+# pyenv
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# add the database file
+db.json
